@@ -7,11 +7,11 @@ The project mainly focus on three parts:
 2. Dataset Cleanup and pre-processing
 3. Data Visualization and Trend Analysis
 
-![Airbnb Top Performance]
+![Airbnb Top Performance](https://github.com/santanu-1005/Airbnb-data-analysis/blob/main/Airbnb_TopPerformers.PNG)
 
 
-![Exploring Neighborhood relative to Location, Amenities]
+![Exploring Neighborhood relative to Location, Amenities](https://github.com/santanu-1005/Airbnb-data-analysis/blob/main/ExploringNeighborhood.PNG)
 
 
-![Review Versus Price Analysis]
+![Review Versus Price Analysis](https://github.com/santanu-1005/Airbnb-data-analysis/blob/main/ReviewVersusPrice.PNG)
 
